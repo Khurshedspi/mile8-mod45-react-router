@@ -1,0 +1,17 @@
+.userStyle{
+    background: rgb(29, 28, 28);
+    border: 2px solid tomato;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 35px;
+}
+
+.userContainer{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+   border: 2px solid goldenrod;
+   padding: 25px;
+   border-radius: 15px;
+   background: rgb(216, 204, 187);
+    
+}
